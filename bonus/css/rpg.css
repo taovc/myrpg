@@ -1,0 +1,71 @@
+body {
+    background: linear-gradient(to bottom right,  #dbdbdb, rgb(21, 0, 97));
+}
+
+test.label {
+    margin-left:5em;
+
+}
+
+p.commentaire {
+    color: white;
+}
+
+h1.Titre {
+    color: rgb(0, 0, 0);
+    font-size: 8ch;
+}
+
+p.premier {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    background-color: rgb(71, 71, 71);
+    font-size: 2.5ch;
+    border-radius: 10px;
+}
+
+a.download {
+    color: #002e4e;
+    font-size: 8ch;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: solid;
+}
+
+h1.How {
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 71, 71);
+    border-radius: 10px;
+}
+
+ol.list {
+    font-size: 3ch;
+    font-weight: bold;
+
+}
+
+img.code {
+    width: 101px;
+    height: 29px;
+    border-radius: 43px;
+    margin-left: 12px;
+    position: relative;
+    top: 5px;
+}
+
+img.ssh {
+    width: 344px;
+    height: 229px;
+    margin-left: 12px;
+}
+
+h1.game_contain {
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 71, 71);
+    border-radius: 10px;
+}
+
+h2.how_to_play {
+   margin-left:5em;
+   color: rgb(0, 0, 0);
+}

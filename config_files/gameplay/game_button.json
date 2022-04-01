@@ -1,0 +1,113 @@
+{
+    "button_inventory_0": {
+        "posx": 600, "posy": 200,
+        "width": 700, "height": 474,
+        "texture": "./imgs/inventory/gui_inventory.png", "mouseover": "./imgs/inventory/gui_inventory.png",
+        "type": 5, "script": 0
+    },
+    "button_item_equipable_1": {
+        "posx": 100, "posy": 100, "width": 100, "height": 59,
+        "texture": "./imgs/inventory/item.png", "mouseover": "./imgs/inventory/item.png",
+        "incre_x": 100,
+        "type": 5, "script": 1, "can_draw": 2
+    },
+    "button_player_inventory_2": {
+        "posx": 175, "posy": 200,
+        "width": 300, "height": 322,
+        "texture": "./imgs/inventory/equiped_inventory.png", "mouseover": "./imgs/inventory/equiped_inventory.png",
+        "type": 5, "script": 2
+    },
+    "button_item_equipable_3": {
+        "posx": 175, "posy": 260,
+        "width": 98, "height": 29,
+        "texture": "./imgs/inventory/unequip.png", "mouseover": "./imgs/inventory/unequip.png",
+        "type": 5, "script": 3, "can_draw": 2
+    },
+    "button_attack_4": {
+        "posx": 700, "posy": 800,
+        "width": 180, "height": 92, "top": 184,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 6, "script": 0
+    },
+    "button_use_5": {
+        "posx": 950, "posy": 750,
+        "width": 180, "height": 92, "top": 184, "left": 208,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 6, "script": 1
+    },
+    "button_close_inventory_6": {
+        "posx": 1000, "posy": 30,
+        "width": 82, "height": 83, "top": 0, "left": 0,
+        "incre_y": 92,
+        "texture": "./imgs/icon/Exit.png", "mouseover": "./imgs/icon/Exit.png",
+        "type": 5, "script": 4
+    },
+    "button_hp_icon_7": {
+        "posx": 100, "posy": 550,
+        "width": 79, "height": 79,
+        "texture": "./imgs/icon/health.png", "mouseover": "./imgs/icon/health.png",
+        "type": 5, "script": 0, "can_draw": 3
+    },
+    "button_damage_icon_8": {
+        "posx": 100, "posy": 629,
+        "width": 78, "height": 79,
+        "texture": "./imgs/icon/damage.png", "mouseover": "./imgs/icon/damage.png",
+        "type": 5, "script": 0, "can_draw": 3
+    },
+    "button_defense_icon_9": {
+        "posx": 100, "posy": 715,
+        "width": 69, "height": 79,
+        "texture": "./imgs/icon/defense.png", "mouseover": "./imgs/icon/defense.png",
+        "type": 5, "script": 0, "can_draw": 3
+    },
+    "button_aoe_attack_10": {
+        "posx": 700, "posy": 700,
+        "width": 180, "height": 92, "top": 380, "left": 416,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 6, "script": 2
+    },
+    "button_resume_11": {
+        "posx": 600, "posy": 250,
+        "width": 180, "height": 92, "top": 380,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 8, "script": 0
+    },
+    "button_save_12": {
+        "posx": 600, "posy": 375,
+        "width": 180, "height": 92, "top": 184, "left": 416,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 8, "script": 1
+    },
+    "button_respawn_13": {
+        "posx": 600, "posy": 500,
+        "width": 180, "height": 92, "top": 184, "left": 624,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 8, "script": 2
+    },
+    "button_return_menu_14": {
+        "posx": 600, "posy": 625,
+        "width": 180, "height": 92, "top": 380, "left": 208,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 8, "script": 3
+    },
+    "button_reset_menu_15": {
+        "posx": 100, "posy": 200,
+        "width": 180, "height": 92, "top": 380, "left": 624,
+        "incre_y": 92,
+        "texture": "./imgs/Button_spritesheet.png", "mouseover": "./imgs/Button_spritesheet.png",
+        "type": 8, "script": 4
+    },
+    "button_lvl_icon_16": {
+        "posx": 20, "posy": 80,
+        "width": 78, "height": 79,
+        "texture": "./imgs/gameplay/level.png", "mouseover": "./imgs/gameplay/level.png",
+        "type": 5, "script": 0, "can_draw": 3
+    }
+}

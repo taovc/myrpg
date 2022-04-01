@@ -1,0 +1,24 @@
+{
+    "id": {
+            "objet": "string",
+            "objet2": 123,
+            "objet3": 6543
+        },
+    "button": {
+        "posx": 1234,
+        "posy": 456
+    },
+    "posx": 1235,
+    "test": [
+        1234,
+        4543,
+        2340
+    ],
+    "new_test": "my_strlen(florian)",
+    "arr_test": [
+        "nebur",
+        "niarolf",
+        "tnecniv"
+    ],
+    "neg": -3245
+}

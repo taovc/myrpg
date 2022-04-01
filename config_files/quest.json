@@ -1,0 +1,20 @@
+{
+    "quest1": {
+        "description": "Do thing",
+        "objective": "kill",
+        "what": "mobs1",
+        "number": "12"
+    },
+    "quest2": {
+        "description": "Do thing",
+        "objective": "talk",
+        "what": "npc1",
+        "number": "1"
+    },
+    "quest3": {
+        "description": "Do thing",
+        "objective": "give",
+        "what": "mom",
+        "number": "1"
+    }
+}

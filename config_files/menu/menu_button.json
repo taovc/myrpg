@@ -1,0 +1,87 @@
+{
+    "button_start_effet": {
+        "posx": 0, "posy": 20,
+        "width": 500, "height": 200, "top": 20, "left": 0,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/button_effect1.png",
+        "type": 0, "script": 0
+    },
+    "button_howtoplay_effet": {
+        "posx": 0, "posy": 240,
+        "width": 820, "height": 200, "top": 240,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/button_effect1.png",
+        "type": 0, "script": 1
+    },
+    "button_option_effet": {
+        "posx": 0, "posy": 490,
+        "width": 538, "height": 170, "top": 490,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/button_effect1.png",
+        "type": 0, "script": 2
+    },
+    "button_exit_effet": {
+        "posx": 0, "posy": 690,
+        "width": 360, "height": 200, "top": 690,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/button_effect1.png",
+        "can_draw": 0,
+        "type": 0, "script": 3
+    },
+    "button_exit_option": {
+        "posx": 1160, "posy": 80,
+        "width": 110, "height": 110, "top": 80, "left": 1160,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 0
+    },
+    "button_fps120_option": {
+        "posx": 960, "posy": 200,
+        "width": 260, "height": 130, "top": 200, "left": 960,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 9
+    },
+    "button_fps60_option": {
+        "posx": 720, "posy": 200,
+        "width": 242, "height": 130, "top": 200, "left": 720,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 8
+    },
+    "button_fps30_option": {
+        "posx": 480, "posy": 200,
+        "width": 242, "height": 130, "top": 200, "left": 480,
+        "texture": "./imgs/Empty.png","mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 7
+    },
+    "button_sound_off": {
+        "posx": 1050, "posy": 400,
+        "width": 150, "height": 100, "top": 400, "left": 1050,
+        "texture": "./imgs/Empty.png","mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 10
+    },
+    "button_size_small_option": {
+        "posx": 490, "posy": 372,
+        "width": 540, "height": 115, "top": 372, "left": 490,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 4
+    },
+    "button_size_medium_option": {
+        "posx": 490, "posy": 490,
+        "width": 540, "height": 115, "top": 480, "left": 480,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 5
+    },
+    "button_size_high_option": {
+        "posx": 490, "posy": 600,
+        "width": 540, "height": 115,"top": 600, "left": 490,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/home/Option effect.png",
+        "type": 1, "script": 6
+    },
+    "button_exit_game_by_option": {
+        "posx": 1050, "posy": 570,
+        "width": 150, "height": 100, "top": 400, "left": 1050,
+        "texture": "./imgs/Empty.png","mouseover": "./imgs/Empty.png",
+        "type": 1, "script": 11
+    },
+    "button_exit_howtoplay": {
+        "posx": 580, "posy": 800,
+        "width": 300, "height": 60, "top": 0, "left": 0,
+        "texture": "./imgs/Empty.png", "mouseover": "./imgs/Empty.png",
+        "type": 2, "script": 0
+    }
+}

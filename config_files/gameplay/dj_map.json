@@ -1,0 +1,38 @@
+{
+    "map_1": {
+        "tag": 0,
+        "path": "./imgs/dungeon/dungeon_home.png"
+    },
+    "map_2": {
+        "tag": 1,
+        "path": "./imgs/dungeon/dj_1.png"
+    },
+    "map_3": {
+        "tag": 1,
+        "path": "./imgs/dungeon/dj_1.png"
+    },
+    "map_4": {
+        "tag": 2,
+        "path": "./imgs/dungeon/dj_2.png"
+    },
+    "map_5": {
+        "tag": 2,
+        "path": "./imgs/dungeon/dj_2.png"
+    },
+    "map_6": {
+        "tag": 3,
+        "path": "./imgs/dungeon/dj_3.png"
+    },
+    "map_7": {
+        "tag": 3,
+        "path": "./imgs/dungeon/dj_3.png"
+    },
+    "map_8": {
+        "tag": 4,
+        "path": "./imgs/dungeon/dj_final.png"
+    },
+    "map_9": {
+        "tag": 9,
+        "path": "./imgs/Empty.png"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "button_exit_from_main_menu": {
+        "posx": 540,
+        "posy": 675,
+        "texture": "./imgs/button/button.png",
+        "mouseover": "./imgs/button/button_mouseover.png",
+        "type": 0,
+        "script": 0
+    }
+}

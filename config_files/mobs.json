@@ -1,0 +1,37 @@
+{
+    "mob_demon_0": {
+        "texture": "imgs/dungeon/monster/Demon.png",
+        "width": 150, "height": 150, "top": 266,
+        "incre_x": 150, "incre_y": 133,
+        "limit_increx": 600,
+        "atck": 6, "hp": 20
+    },
+    "mob_djin_1": {
+        "texture": "imgs/dungeon/monster/Jinn.png",
+        "width": 150, "height": 150, "top": 266,
+        "incre_x": 150, "incre_y": 133,
+        "limit_increx": 600,
+        "atck": 8, "hp": 20
+    },
+    "mob_medusa_2": {
+        "texture": "imgs/dungeon/monster/Medusa.png",
+        "width": 150, "height": 150, "top": 266,
+        "incre_x": 150, "incre_y": 133,
+        "limit_increx": 600,
+        "atck": 6, "hp": 20
+    },
+    "mob_lizard_3": {
+        "texture": "imgs/dungeon/monster/Lizard.png",
+        "width": 150, "height": 150, "top": 266,
+        "incre_x": 150, "incre_y": 133,
+        "limit_increx": 600,
+        "atck": 6, "hp": 20
+    },
+    "mob_drake_4": {
+        "texture": "imgs/dungeon/monster/Drake.png",
+        "width": 255, "height": 200, "top": 400,
+        "incre_x": 255, "incre_y": 200,
+        "limit_increx": 1000,
+        "atck": 15, "hp": 100
+    }
+}

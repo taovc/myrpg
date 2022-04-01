@@ -1,0 +1,20 @@
+{
+    "npc_daronne": {
+        "posx": 100, "posy": 200,
+        "width": 60, "height": 50, "top": 50,
+        "dialog": "wsh filston",
+        "texture": "imgs/monster.png",
+        "npc_id": 2,
+        "incre_x": 50, "incre_y": 0,
+        "limit_increx": 150,
+        "zone": 0
+    },
+    "npc_dogoo": {
+        "posx": 500, "posy": 200,
+        "width": 60, "height": 50, "top": 50,
+        "dialog": "ouaf ouaf\ntest",
+        "texture": "imgs/monster.png",
+        "npc_id": 2,
+        "zone": 0
+    }
+}

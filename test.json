@@ -1,0 +1,15 @@
+{
+    "button_choose_fps_0": {
+        "posx": 100,
+        "posy": 500,
+        "width": 200,
+        "height": 85,
+        "left": 208,
+        "texture": "./imgs/button/Spritesheet_button.png",
+        "mouseover": "./imgs/button/Spritesheet_button.png",
+        "type": 1,
+        "script": 1,
+        "incre_x": 208,
+        "incre_y": 87
+    }
+}

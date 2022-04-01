@@ -1,0 +1,14 @@
+{
+    "ui_menu": {
+        "posx": 0,
+        "posy": 0,
+        "texture": "./imgs/home/home.png",
+        "type": 0
+    },
+    "ui_menu_option": {
+        "posx": 0,
+        "posy": 0,
+        "texture": "./imgs/home/Option image.png",
+        "type": 1
+    }
+}

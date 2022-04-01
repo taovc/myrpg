@@ -1,0 +1,8 @@
+{
+    "player": {
+        "texture": "./imgs/gameplay/person.png",
+        "width": 91, "height": 127, "top": 383,
+        "incre_x": 91, "incre_y": 127,
+        "limit_increx": 1350
+    }
+}

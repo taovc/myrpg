@@ -1,0 +1,14 @@
+{
+    "sound_slashing_mobs_0": {
+        "sound": "./sound/gameplay/heavy-sword-hit.ogg"
+    },
+    "sound_taking_damage_1": {
+        "sound": "./sound/gameplay/oof.ogg"
+    },
+    "sound_drinking_2": {
+        "sound": "./sound/gameplay/sip-of-water.ogg"
+    },
+    "sound_equipping_3": {
+        "sound": "./sound/gameplay/wood-hard-hit.ogg"
+    }
+}
